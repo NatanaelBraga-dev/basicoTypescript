@@ -1,4 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 console.log("hello world");
-let nome = "Bruno";
+let nome;
+nome = "Pinho";
+nome = "Bruno";
+let valor;
+valor = 10;
+console.log(valor);
+console.log(nome);
